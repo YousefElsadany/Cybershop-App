@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "649566829608",
+    "project_id": "cybershop-9d418",
+    "storage_bucket": "cybershop-9d418.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649566829608:android:06a64785f3a0ec55a8c91d",
+        "android_client_info": {
+          "package_name": "com.example.cybershop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649566829608-1ggi8qvulguqmrvr5r21gqehomd7vqo1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cybershop_app",
+            "certificate_hash": "e051ce16f7f9ec41bbc183a88c94fe2d6b52522e"
+          }
+        },
+        {
+          "client_id": "649566829608-d3pqhf0c7kpo11015rpuiupal7ujv8vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8uuX4yDGhhJRRt7_eLUId8zut1Gsep2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649566829608-d3pqhf0c7kpo11015rpuiupal7ujv8vv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
